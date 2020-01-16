@@ -49,9 +49,13 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="bin\Debug\------------EDIT_PC3.BAT" />
+    <None Include="bin\Debug\NLHAG1-PLO0103-Black_White_NON_FOLDING-for_AutoCAD.pc3" />
     <None Include="bin\Debug\unzip_pc3.exe.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="bin\Debug\Ionic.Zip.dll" />
+    <Content Include="bin\Debug\NLHAG1-PLO0103-Black_White_NON_FOLDING-for_AutoCAD.pc3.txt" />
     <Content Include="bin\Debug\unzip_pc3.exe" />
     <Content Include="bin\Debug\unzip_pc3.pdb" />
   </ItemGroup>
