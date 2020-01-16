@@ -1,7 +1,7 @@
 unzip_pc3
 =========
 
-Compress (.TXT=>.PC3) and decompress (extract  .PC3/.PMP/.=>.TXT) pc3 files for AutoCAD 
+Compress (.TXT=>.PC3) and decompress (extract  .PC3/.PMP/.CTB=>.TXT) pc3 files for AutoCAD 
 
 .Exe can be found in unzip_pc3\bin\Debug\unzip_pc3.exe
 it needs Ionic.Zip.DLL in the same folder to run unzip_pc3.exe
