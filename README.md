@@ -17,3 +17,4 @@ v1.01 Arie van Brakel 2020-Jan-16
 -Added filter on files
 -Added support for extracting .PMP and .CTB files
 -Added Ionic.Zip.DLL (Needed for Excecution)
+-Be aware string lines don't have closing " 
